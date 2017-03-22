@@ -1,0 +1,9 @@
+/**
+ * 发型接口
+ * @author Anatasia
+ *
+ */
+public interface HairInterface{
+	//实现了发型
+	public void draw();
+}
